@@ -1,2 +1,2 @@
 # hotelsampleapp
-CQRS - ES Sample App Part 1
+CQRS - ES Sample App
