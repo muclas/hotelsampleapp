@@ -50,6 +50,7 @@
     <Compile Include="BDDTest.cs" />
     <Compile Include="IApplyEvent.cs" />
     <Compile Include="IHandleCommand.cs" />
+    <Compile Include="ISubscribeTo.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

@@ -527,7 +527,7 @@ namespace Restaurant.Tests
         }
 
         [Test]
-        public void CanNotCloseTabTwice()
+        public void CanNotCloseBillTwice()
         {
             Test(
                 Given(new BillOpened
